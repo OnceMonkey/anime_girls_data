@@ -2,7 +2,7 @@
 This repository consists of 3w anime girls，you can use this to train your network.
 
 # Data Sources
-i Crawled https://make.girls.moe/#/, total got 3w+ images with 256*256 resolution. 
+I crawled https://make.girls.moe/#/, total got 3w+ images with 256*256 resolution. 
 
 # Link
   #### 64*64
